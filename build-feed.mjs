@@ -24,7 +24,7 @@ const STATIONS = [
 const km = (a, b, c, d) => { const r = Math.PI / 180, x = (d - b) * r * Math.cos(((a + c) / 2) * r), y = (c - a) * r; return Math.hypot(x, y) * 6371; };
 // Building names that say their area beat the nearest-station guess.
 const AREA_BY_NAME = [
-  [/ekkamai/i, 'Ekkamai'], [/thong ?lo|thonglor|liv@49|the fine/i, 'Thonglor'], [/phrom ?phong|emporio/i, 'Phrom Phong'],
+  [/ekkamai|the fine/i, 'Ekkamai'], [/thong ?lo|thonglor|liv@49/i, 'Thonglor'], [/phrom ?phong|emporio/i, 'Phrom Phong'],
   [/sukhumvit 23|noble be ?19|ashton asoke|asok/i, 'Asok'], [/chidlom|chit lom/i, 'Chit Lom'], [/life one wireless|ploenchit|phloen ?chit/i, 'Phloen Chit'],
   [/sky ?walk|sukhumvit 69|ideo mobi/i, 'Phra Khanong'], [/on ?nut/i, 'On Nut'],
 ];
