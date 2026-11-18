@@ -18,13 +18,13 @@ if (!KEY) { console.error('HOSTAWAY_API_KEY is missing'); process.exit(1); }
 const STATIONS = [
   ['Siam', 13.7456, 100.5341], ['Chit Lom', 13.7442, 100.5431], ['Phloen Chit', 13.7430, 100.5490],
   ['Nana', 13.7405, 100.5549], ['Asok', 13.7370, 100.5604], ['Phrom Phong', 13.7305, 100.5697],
-  ['Thong Lo', 13.7243, 100.5784], ['Ekkamai', 13.7194, 100.5850], ['Phra Khanong', 13.7152, 100.5916],
+  ['Thonglor', 13.7243, 100.5784], ['Ekkamai', 13.7194, 100.5850], ['Phra Khanong', 13.7152, 100.5916],
   ['On Nut', 13.7057, 100.6010], ['Bang Chak', 13.6968, 100.6054],
 ];
 const km = (a, b, c, d) => { const r = Math.PI / 180, x = (d - b) * r * Math.cos(((a + c) / 2) * r), y = (c - a) * r; return Math.hypot(x, y) * 6371; };
 // Building names that say their area beat the nearest-station guess.
 const AREA_BY_NAME = [
-  [/ekkamai/i, 'Ekkamai'], [/thong ?lo|thonglor|liv@49|the fine/i, 'Thong Lo'], [/phrom ?phong|emporio/i, 'Phrom Phong'],
+  [/ekkamai/i, 'Ekkamai'], [/thong ?lo|thonglor|liv@49|the fine/i, 'Thonglor'], [/phrom ?phong|emporio/i, 'Phrom Phong'],
   [/sukhumvit 23|noble be ?19|ashton asoke|asok/i, 'Asok'], [/chidlom|chit lom/i, 'Chit Lom'], [/life one wireless|ploenchit|phloen ?chit/i, 'Phloen Chit'],
   [/sky ?walk|sukhumvit 69|ideo mobi/i, 'Phra Khanong'], [/on ?nut/i, 'On Nut'],
 ];
