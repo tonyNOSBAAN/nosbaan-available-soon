@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:09:14.038Z",
+ "updated": "2026-11-19T08:06:46.218Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -26,21 +26,6 @@
    "guests": 2,
    "sqm": 45,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-568361-27OQvtS5UWbxPv0--cr--XQEsk8dkuUTnlEa---ahNK1EQ-6af3e16cb3fdb",
-   "free_from": "2026-11-30",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
-   "id": 595424,
-   "title": "Amazing Condo Facilities",
-   "building": "Park Origin Thonglor",
-   "area": "Thonglor",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 33,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-595424-QcHCFxx-Lj1SdCGOwQHOjlX0XBQv1PC3tGBtE7umg--c-6af55da8d58fe",
    "free_from": "2026-11-30",
    "free_nights": null,
    "open_ended": true,
@@ -123,21 +108,6 @@
    "price_30": null
   },
   {
-   "id": 578164,
-   "title": "Amazing Condo Facilities",
-   "building": "Park Origin Thonglor",
-   "area": "Thonglor",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 33,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-578164-UAlF77ozmRwxNw0Npr03J8PrfLitX79heSjx5oevmd0-6af4142a09187",
-   "free_from": "2026-12-01",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
    "id": 243481,
    "title": "40th Floor Working Sky Views",
    "building": "Sky Walk Residences",
@@ -145,7 +115,7 @@
    "bedrooms": 1,
    "guests": 3,
    "sqm": 51,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-243481-eNESid4AFziTIZvPze0qvZdQA6u8RQk7tPgRJLoHEn8-6ae2f6aaf1fe8",
+   "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODQ5MTI2NDcyMjcxMTQ2ODUw/original/7d50b401-b352-4b3f-a255-4fc2e64e6b71.jpeg?aki_policy=xx_large",
    "free_from": "2026-12-02",
    "free_nights": null,
    "open_ended": true,
@@ -360,6 +330,36 @@
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 595135,
+   "title": "Amazing Condo Facilities",
+   "building": "Park Origin Thonglor",
+   "area": "Thonglor",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 33,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-595135-0cAgAGfs-wN--sk6mCs3UAfvVL9fbX3OginIPcqcYZBg-6af55eea5aac8",
+   "free_from": "2026-12-10",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 621822,
+   "title": "1 Min to Soi Cowboy Fun",
+   "building": "The Edge Sukhumvit 23",
+   "area": "Asok",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 30,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-621822-JGQRhlTj1Icrg-9rQfW4u5gSLi64fSxbse5EbR1wnNU-6af56c277600f",
+   "free_from": "2026-12-10",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 120,
    "price_30": null
   }
  ]
