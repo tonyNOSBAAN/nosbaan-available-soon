@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:12:07.886Z",
+ "updated": "2026-11-19T08:14:47.074Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -11,10 +11,10 @@
    "guests": 2,
    "sqm": 30,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-459116-cxPOQ3ORWWQANf7yQXjHHrnrofb-O1ONZvJ8MFVaIMk-6af1af10410fa",
-   "free_from": "2026-11-28",
+   "free_from": "2026-11-23",
    "free_nights": null,
    "open_ended": true,
-   "min_nights": 45,
+   "min_nights": 30,
    "price_30": null
   },
   {
@@ -89,6 +89,36 @@
    "free_from": "2026-12-01",
    "free_nights": 33,
    "open_ended": false,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 573263,
+   "title": "1 Min to Soi Cowboy Fun",
+   "building": "The Edge Sukhumvit 23",
+   "area": "Asok",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 30,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-573263-ImC--U4vBd7205qfi5NovhixUKM0V08DNQoMOPlpjqi0-6af3f6cf6f349",
+   "free_from": "2026-12-01",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 243481,
+   "title": "40th Floor Working Sky Views",
+   "building": "Sky Walk Residences",
+   "area": "Phra Khanong",
+   "bedrooms": 1,
+   "guests": 3,
+   "sqm": 51,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-243481-Djy3lULdmZy4c87YVBB2HgYx5XSCzBw0QsjaHeb3dxA-6afead92e89d0",
+   "free_from": "2026-12-02",
+   "free_nights": null,
+   "open_ended": true,
    "min_nights": 30,
    "price_30": null
   },
@@ -330,36 +360,6 @@
    "free_nights": null,
    "open_ended": true,
    "min_nights": 120,
-   "price_30": null
-  },
-  {
-   "id": 489248,
-   "title": "Beautiful Facilities & City Views",
-   "building": "XT Ekkamai",
-   "area": "Ekkamai",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 30,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-489248-1rvtla--ha2tJOhECHO3xVBQUsC1YZ0SNk6MczKFz8yA-6af29738aece1",
-   "free_from": "2026-12-11",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
-   "id": 568360,
-   "title": "Spacious 45 sqm Condo Stay",
-   "building": "Estella Ekkamai",
-   "area": "Ekkamai",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 45,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-568360-9nllJZxeEhKbHZX4gxdGzjdqioKtGbG7IJH8Da9ruW4-6af3e1ad5044f",
-   "free_from": "2026-12-11",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
    "price_30": null
   }
  ]
