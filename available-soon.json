@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:14:47.074Z",
+ "updated": "2026-11-19T12:10:00.385Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -183,21 +183,6 @@
    "price_30": null
   },
   {
-   "id": 484142,
-   "title": "Digital Nomad's Home",
-   "building": "Life One Wireless",
-   "area": "Phloen Chit",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 28,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-484142-HyoxFksH8oXN8xTFDFz6mAjyZZXqX4FlDH-SJqSdg2Q-6af297625b211",
-   "free_from": "2026-12-03",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
    "id": 263775,
    "title": "Amazing Mega Facilities",
    "building": "Park Origin Phrom Phong",
@@ -222,21 +207,6 @@
    "sqm": 36,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-557920-uq-Wd--vqoqXppt2M6lG0o1XQ7pwidauJruwGlykg6Vk-6af3de4a8dbad",
    "free_from": "2026-12-05",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
-   "id": 476848,
-   "title": "Steps to Soi Cowboy Fun",
-   "building": "The Edge Sukhumvit 23",
-   "area": "Asok",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 30,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-476848-xl9tqHNPfszaEU7g9Xn7vEknIZCUlo-pch552QSx0uw-6af2904fc3ab9",
-   "free_from": "2026-12-06",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -325,7 +295,7 @@
    "bedrooms": 1,
    "guests": 2,
    "sqm": 35,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-359392-pd87p9NwZcWsWrR8KQUrVPxgoIM12FWwMJe3cTWkWEE-6ae996205eab5",
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-359392-V-KVZLmSNku682m6KFEOSAzj2EP8WdsGBDzCU13u7CI-6afed8ce44716",
    "free_from": "2026-12-10",
    "free_nights": null,
    "open_ended": true,
@@ -348,18 +318,48 @@
    "price_30": null
   },
   {
-   "id": 621822,
-   "title": "1 Min to Soi Cowboy Fun",
-   "building": "The Edge Sukhumvit 23",
+   "id": 489248,
+   "title": "Beautiful Facilities & City Views",
+   "building": "XT Ekkamai",
+   "area": "Ekkamai",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 30,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-489248-1rvtla--ha2tJOhECHO3xVBQUsC1YZ0SNk6MczKFz8yA-6af29738aece1",
+   "free_from": "2026-12-11",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 568360,
+   "title": "Spacious 45 sqm Condo Stay",
+   "building": "Estella Ekkamai",
+   "area": "Ekkamai",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 45,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-568360-9nllJZxeEhKbHZX4gxdGzjdqioKtGbG7IJH8Da9ruW4-6af3e1ad5044f",
+   "free_from": "2026-12-11",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 570251,
+   "title": "1 Min to MRT, 4 Min to BTS Asok",
+   "building": "Ashton Asoke",
    "area": "Asok",
    "bedrooms": 1,
    "guests": 2,
    "sqm": 30,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-621822-JGQRhlTj1Icrg-9rQfW4u5gSLi64fSxbse5EbR1wnNU-6af56c277600f",
-   "free_from": "2026-12-10",
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-570251-piOw2EnHjO3i2kmkb6erJ6wxsgWIGfCoB-UKTgL1uvw-6af3f05e6a927",
+   "free_from": "2026-12-12",
    "free_nights": null,
    "open_ended": true,
-   "min_nights": 120,
+   "min_nights": 30,
    "price_30": null
   }
  ]
