@@ -80,8 +80,9 @@ async function main() {
     const w = freeWindow(days, today);
     if (!w) continue;
     const [building, ...rest] = String(l.name || l.externalListingName || '').split('|').map((s) => s.trim());
-    const img = (l.listingImages || []).slice().sort((a, b) => (a.sortOrder ?? 999) - (b.sortOrder ?? 999))[0];
-    if (!building || !img) continue;
+    if (w.min_nights > MIN_NIGHTS) continue; // the homepage only shows homes bookable from 30 nights
+    const imgs = (l.listingImages || []).slice().sort((a, b) => (a.sortOrder ?? 999) - (b.sortOrder ?? 999)).map((i) => i.url).filter(Boolean);
+    if (!building || !imgs.length) continue;
     found.push({
       id: l.id,
       title: rest.join(' | ') || building,
@@ -90,7 +91,8 @@ async function main() {
       bedrooms: +l.bedroomsNumber || 0,
       guests: +l.personCapacity || null,
       sqm: +l.squareMeters || null,
-      image: img.url,
+      image: imgs[0],
+      _imgs: imgs.slice(0, 4),
       ...w,
       price_30: null,
     });
@@ -102,7 +104,13 @@ async function main() {
   for (const h of found) {
     if (homes.length >= MAX_HOMES) break;
     const r = await fetch(`${BOOK}/listings/${h.id}`, { method: 'GET', headers: { 'User-Agent': 'nosbaan-available-soon' } }).catch(() => null);
-    if (r && r.ok) homes.push(h);
+    if (r && r.ok) {
+      // first photo that still exists (photos can be replaced in Hostaway between runs)
+      let pic = null;
+      for (const u of h._imgs) { const q = await fetch(u, { method: 'HEAD' }).catch(() => null); if (q && q.ok) { pic = u; break; } }
+      delete h._imgs;
+      if (pic) { h.image = pic; homes.push(h); }
+    }
     await sleep(200);
   }
   const out = { updated: new Date().toISOString(), timezone: 'Asia/Bangkok', homes };
