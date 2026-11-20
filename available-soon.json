@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:15:16.240Z",
+ "updated": "2026-11-20T00:38:28.306Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -78,21 +78,6 @@
    "price_30": null
   },
   {
-   "id": 490531,
-   "title": "2 minutes from BTS",
-   "building": "The Room Sukhumvit 69",
-   "area": "Phra Khanong",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 35,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-490531-GuVmaP7yR74c7bICB53JEwZvZSZjFAegrGmpzQj40a8-6af5882c0cb5a",
-   "free_from": "2026-12-01",
-   "free_nights": 33,
-   "open_ended": false,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
    "id": 573263,
    "title": "1 Min to Soi Cowboy Fun",
    "building": "The Edge Sukhumvit 23",
@@ -102,21 +87,6 @@
    "sqm": 30,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-573263-ImC--U4vBd7205qfi5NovhixUKM0V08DNQoMOPlpjqi0-6af3f6cf6f349",
    "free_from": "2026-12-01",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
-   "id": 243481,
-   "title": "40th Floor Working Sky Views",
-   "building": "Sky Walk Residences",
-   "area": "Phra Khanong",
-   "bedrooms": 1,
-   "guests": 3,
-   "sqm": 51,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-243481-Djy3lULdmZy4c87YVBB2HgYx5XSCzBw0QsjaHeb3dxA-6afead92e89d0",
-   "free_from": "2026-12-02",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -357,6 +327,36 @@
    "sqm": 30,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-570251-piOw2EnHjO3i2kmkb6erJ6wxsgWIGfCoB-UKTgL1uvw-6af3f05e6a927",
    "free_from": "2026-12-12",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 347107,
+   "title": "Stellar Condo Facilities",
+   "building": "Park Origin Phrom Phong",
+   "area": "Phrom Phong",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 33,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-347107-oXVXK3RA8TiCGEvClPTcWb5SIgsdFN7zN--lXmpauD5Y-6ae97fa07ffbd",
+   "free_from": "2026-12-13",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 285308,
+   "title": "Outstanding Facilities",
+   "building": "Park Origin Phrom Phong",
+   "area": "Phrom Phong",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 30,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-285308--6lttGfTVTXhVPFIef81mwkcwKniG9mSa4JNAnNOsHk-6ae820d7d9c21",
+   "free_from": "2026-12-14",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
