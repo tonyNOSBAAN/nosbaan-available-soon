@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:56:59.870Z",
+ "updated": "2026-11-21T19:11:29.700Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -228,21 +228,6 @@
    "price_30": null
   },
   {
-   "id": 244515,
-   "title": "Spacious 2-Bed Apartment",
-   "building": "Park Origin Phrom Phong",
-   "area": "Phrom Phong",
-   "bedrooms": 2,
-   "guests": 3,
-   "sqm": 58,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-244515-W9oXUTRNkDOOkSMbRbNljRSDJ67oFFHgxF3ARGWhH38-6ae46c7d226b5",
-   "free_from": "2026-12-10",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
    "id": 359392,
    "title": "Heart of Central Bangkok",
    "building": "Q Chidlom",
@@ -356,6 +341,21 @@
    "guests": 2,
    "sqm": 33,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-404046-dNHt4ZkAx94lxdV1LhtIX88ISU9kEShqkYmqyeqPnu4-6afd5d33c4fda",
+   "free_from": "2026-12-14",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 565962,
+   "title": "38th Floor City Sky Views",
+   "building": "Life One Wireless",
+   "area": "Phloen Chit",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 35,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-565962-LGSl9SEvcZgDULlEkanArDo0t2WzcNHPd24KCrKNKw0-6af3e23185a0c",
    "free_from": "2026-12-14",
    "free_nights": null,
    "open_ended": true,
