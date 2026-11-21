@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:08:26.428Z",
+ "updated": "2026-11-21T02:12:00.625Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -288,21 +288,6 @@
    "price_30": null
   },
   {
-   "id": 621822,
-   "title": "1 Min to Soi Cowboy Fun",
-   "building": "The Edge Sukhumvit 23",
-   "area": "Asok",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 30,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-621822-JGQRhlTj1Icrg-9rQfW4u5gSLi64fSxbse5EbR1wnNU-6af56c277600f",
-   "free_from": "2026-12-10",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
    "id": 489248,
    "title": "Beautiful Facilities & City Views",
    "building": "XT Ekkamai",
@@ -357,6 +342,21 @@
    "sqm": 33,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-347107-oXVXK3RA8TiCGEvClPTcWb5SIgsdFN7zN--lXmpauD5Y-6ae97fa07ffbd",
    "free_from": "2026-12-13",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 285308,
+   "title": "Outstanding Facilities",
+   "building": "Park Origin Phrom Phong",
+   "area": "Phrom Phong",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 30,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-285308--6lttGfTVTXhVPFIef81mwkcwKniG9mSa4JNAnNOsHk-6ae820d7d9c21",
+   "free_from": "2026-12-14",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
