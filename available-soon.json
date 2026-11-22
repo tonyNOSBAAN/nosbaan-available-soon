@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:21:00.106Z",
+ "updated": "2026-11-22T11:15:12.094Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -146,7 +146,22 @@
    "guests": 2,
    "sqm": 30,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-263775-AYUigvZzDFCwTTMFquW1HbHpTc8yIj-7BqkHJleioZU-6ae4808930565",
-   "free_from": "2026-12-04",
+   "free_from": "2026-12-05",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 557920,
+   "title": "The Heart of Soi 10",
+   "building": "Park Origin Thonglor",
+   "area": "Thonglor",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 36,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-557920-uq-Wd--vqoqXppt2M6lG0o1XQ7pwidauJruwGlykg6Vk-6af3de4a8dbad",
+   "free_from": "2026-12-05",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -162,21 +177,6 @@
    "sqm": 33,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-586044-i19xjUbty2V5KJDRVR6Apydxdxya-WUwMyscK264m24-6af428f18565d",
    "free_from": "2026-12-07",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
-   "id": 514014,
-   "title": "Spacious 1-Bedroom for Digital Nomad",
-   "building": "Noble BE 19",
-   "area": "Asok",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 45,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-514014-sVni3oU-hHfupXOOQHVPWk5uIFcl42xf--heh30YfDoA-6af2edc3f407d",
-   "free_from": "2026-12-08",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
