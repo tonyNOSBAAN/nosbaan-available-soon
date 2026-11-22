@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-22T11:15:12.094Z",
+ "updated": "2026-11-22T19:33:42.852Z",
  "timezone": "Asia/Bangkok",
  "homes": [
+  {
+   "id": 243480,
+   "title": "Spacious with Large Kitchen Area",
+   "building": "President Park",
+   "area": "Phrom Phong",
+   "bedrooms": 1,
+   "guests": 3,
+   "sqm": 67,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-243480-hUC--Isbb3-YTJL-IEEcya0QHjIODKDB96M--S-opsX6k-6ae3127926fa2",
+   "free_from": "2026-11-23",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
   {
    "id": 568361,
    "title": "Spacious Sukhumvit Condo Stay",
@@ -341,21 +356,6 @@
    "guests": 2,
    "sqm": 35,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-565962-LGSl9SEvcZgDULlEkanArDo0t2WzcNHPd24KCrKNKw0-6af3e23185a0c",
-   "free_from": "2026-12-14",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
-   "id": 628062,
-   "title": "1 Min to MRT, 4 Min to BTS Asok",
-   "building": "Ashton Asoke",
-   "area": "Asok",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 34,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-628062-zWSAQOPl5LLMDNC3yb-5fwVLF5WXhOGMhhz6HAF4B3Y-6af766a20a30e",
    "free_from": "2026-12-14",
    "free_nights": null,
    "open_ended": true,
