@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:40:01.611Z",
+ "updated": "2026-11-23T12:26:10.073Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -93,21 +93,6 @@
    "price_30": null
   },
   {
-   "id": 501784,
-   "title": "Work Space with Amazing Pool",
-   "building": "Life One Wireless",
-   "area": "Phloen Chit",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 28,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-501784-liyUlCM4N61r6S89yymjoDsUgYsvDov6dhdP--v5h38w-6af2bb0575553",
-   "free_from": "2026-12-02",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
    "id": 511560,
    "title": "City Views from 33rd Floor",
    "building": "Life One Wireless",
@@ -183,15 +168,15 @@
    "price_30": null
   },
   {
-   "id": 589025,
-   "title": "Amazing Condo Facilities",
-   "building": "Park Origin Thonglor",
-   "area": "Thonglor",
+   "id": 501784,
+   "title": "Work Space with Amazing Pool",
+   "building": "Life One Wireless",
+   "area": "Phloen Chit",
    "bedrooms": 1,
    "guests": 2,
-   "sqm": 32,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-589025-Dq2l--V1T82qaVbg-NVVijKiNKEQsiLLQ8Isy3D1h8Nc-6af42ef3aeb90",
-   "free_from": "2026-12-08",
+   "sqm": 28,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-501784-liyUlCM4N61r6S89yymjoDsUgYsvDov6dhdP--v5h38w-6af2bb0575553",
+   "free_from": "2026-12-09",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -220,7 +205,7 @@
    "bedrooms": 1,
    "guests": 2,
    "sqm": 35,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-359392-V-KVZLmSNku682m6KFEOSAzj2EP8WdsGBDzCU13u7CI-6afed8ce44716",
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-359392-MD90W5EQRFQNcReXIKdb6fl2qa60VSN4kjGllntWsqo-6b04012f7f2e9",
    "free_from": "2026-12-10",
    "free_nights": null,
    "open_ended": true,
@@ -357,6 +342,21 @@
    "sqm": 34,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-628062-zWSAQOPl5LLMDNC3yb-5fwVLF5WXhOGMhhz6HAF4B3Y-6af766a20a30e",
    "free_from": "2026-12-14",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 473875,
+   "title": "2 Workstations with 24” Monitors",
+   "building": "Noble BE 19",
+   "area": "Asok",
+   "bedrooms": 2,
+   "guests": 4,
+   "sqm": 55,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-473875-WSswe0oVdoNMUTKSPuZs6QBoIX6PyNE7hRJQy-x1o5w-6af288fb780f5",
+   "free_from": "2026-12-15",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
