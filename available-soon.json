@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:33:42.852Z",
+ "updated": "2026-11-23T01:40:01.611Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -86,21 +86,6 @@
    "guests": 3,
    "sqm": 51,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-243481-Djy3lULdmZy4c87YVBB2HgYx5XSCzBw0QsjaHeb3dxA-6afead92e89d0",
-   "free_from": "2026-12-02",
-   "free_nights": null,
-   "open_ended": true,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
-   "id": 243483,
-   "title": "Amazing Condo Facilities",
-   "building": "Park Origin Phrom Phong",
-   "area": "Phrom Phong",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 30,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-243483-AA9um3hio0mRdWe6THpaoaUNx-MSwz1ajqQBkuTmcb4-6af58ee603359",
    "free_from": "2026-12-02",
    "free_nights": null,
    "open_ended": true,
@@ -356,6 +341,21 @@
    "guests": 2,
    "sqm": 35,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-565962-LGSl9SEvcZgDULlEkanArDo0t2WzcNHPd24KCrKNKw0-6af3e23185a0c",
+   "free_from": "2026-12-14",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 628062,
+   "title": "1 Min to MRT, 4 Min to BTS Asok",
+   "building": "Ashton Asoke",
+   "area": "Asok",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 34,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-628062-zWSAQOPl5LLMDNC3yb-5fwVLF5WXhOGMhhz6HAF4B3Y-6af766a20a30e",
    "free_from": "2026-12-14",
    "free_nights": null,
    "open_ended": true,
