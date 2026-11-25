@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:25:49.768Z",
+ "updated": "2026-11-25T19:14:05.084Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -11,7 +11,7 @@
    "guests": 2,
    "sqm": 30,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-638538-n9X8CeIiC8M4OuJuGCljNxjnk--J2l2Iw8iN-vV43rfI-6b058ba883b53",
-   "free_from": "2026-11-25",
+   "free_from": "2026-11-26",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -26,7 +26,7 @@
    "guests": 2,
    "sqm": 35,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-638630-tMsAYOpsLyPQ--62seFJ-lARINpfzvoC5eSEt3lS-oMs-6b058554900d4",
-   "free_from": "2026-11-25",
+   "free_from": "2026-11-26",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
