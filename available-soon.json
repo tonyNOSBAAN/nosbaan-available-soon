@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:44:12.433Z",
+ "updated": "2026-11-27T12:09:02.410Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -78,21 +78,6 @@
    "price_30": null
   },
   {
-   "id": 511560,
-   "title": "City Views from 33rd Floor",
-   "building": "Life One Wireless",
-   "area": "Phloen Chit",
-   "bedrooms": 1,
-   "guests": 2,
-   "sqm": 28,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-511560-miq0yoGr8PQTFWlJBg1SPvDf--ktOUyTHUelQ5-mnzOs-6af2e45456946",
-   "free_from": "2026-12-02",
-   "free_nights": 32,
-   "open_ended": false,
-   "min_nights": 30,
-   "price_30": null
-  },
-  {
    "id": 371622,
    "title": "Thonglor Skylines & Workspace",
    "building": "The Fine Bangkok",
@@ -123,15 +108,15 @@
    "price_30": null
   },
   {
-   "id": 557920,
-   "title": "The Heart of Soi 10",
-   "building": "Park Origin Thonglor",
-   "area": "Thonglor",
+   "id": 568361,
+   "title": "Spacious Sukhumvit Condo Stay",
+   "building": "Estella Ekkamai",
+   "area": "Ekkamai",
    "bedrooms": 1,
    "guests": 2,
-   "sqm": 36,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-557920-uq-Wd--vqoqXppt2M6lG0o1XQ7pwidauJruwGlykg6Vk-6af3de4a8dbad",
-   "free_from": "2026-12-05",
+   "sqm": 45,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-568361-27OQvtS5UWbxPv0--cr--XQEsk8dkuUTnlEa---ahNK1EQ-6af3e16cb3fdb",
+   "free_from": "2026-12-07",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -265,7 +250,7 @@
    "bedrooms": 1,
    "guests": 2,
    "sqm": 33,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-404046-dNHt4ZkAx94lxdV1LhtIX88ISU9kEShqkYmqyeqPnu4-6afd5d33c4fda",
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-404046-wfPdfpL-g-Obt7--ndE39ygo--x5NBe91hHESdeOc-14M-6b0947012cf66",
    "free_from": "2026-12-14",
    "free_nights": null,
    "open_ended": true,
@@ -356,6 +341,21 @@
    "guests": 2,
    "sqm": 33,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-578163-VSNw7Sr8iYlHiLnvy9px8gBiWMlzYEu2hVLrOKiQ3i8-6af40bfea46e8",
+   "free_from": "2026-12-15",
+   "free_nights": null,
+   "open_ended": true,
+   "min_nights": 30,
+   "price_30": null
+  },
+  {
+   "id": 627967,
+   "title": "1 Min to Soi Cowboy Fun",
+   "building": "The Edge Sukhumvit 23",
+   "area": "Asok",
+   "bedrooms": 1,
+   "guests": 2,
+   "sqm": 31,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-627967-hM-QW6TzN6dEc1d4jvVCiyVDd7--LqbWmlmMO0r1gt--w-6af72098c61f7",
    "free_from": "2026-12-15",
    "free_nights": null,
    "open_ended": true,
