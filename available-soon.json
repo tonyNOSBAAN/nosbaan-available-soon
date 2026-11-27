@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:49:54.858Z",
+ "updated": "2026-11-27T01:44:12.433Z",
  "timezone": "Asia/Bangkok",
  "homes": [
   {
@@ -11,7 +11,7 @@
    "guests": 2,
    "sqm": 30,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-638538-n9X8CeIiC8M4OuJuGCljNxjnk--J2l2Iw8iN-vV43rfI-6b058ba883b53",
-   "free_from": "2026-11-26",
+   "free_from": "2026-11-27",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -26,7 +26,7 @@
    "guests": 2,
    "sqm": 35,
    "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-638630-tMsAYOpsLyPQ--62seFJ-lARINpfzvoC5eSEt3lS-oMs-6b058554900d4",
-   "free_from": "2026-11-26",
+   "free_from": "2026-11-27",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
@@ -123,15 +123,15 @@
    "price_30": null
   },
   {
-   "id": 568361,
-   "title": "Spacious Sukhumvit Condo Stay",
-   "building": "Estella Ekkamai",
-   "area": "Ekkamai",
+   "id": 557920,
+   "title": "The Heart of Soi 10",
+   "building": "Park Origin Thonglor",
+   "area": "Thonglor",
    "bedrooms": 1,
    "guests": 2,
-   "sqm": 45,
-   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-568361-27OQvtS5UWbxPv0--cr--XQEsk8dkuUTnlEa---ahNK1EQ-6af3e16cb3fdb",
-   "free_from": "2026-12-07",
+   "sqm": 36,
+   "image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/95976-557920-uq-Wd--vqoqXppt2M6lG0o1XQ7pwidauJruwGlykg6Vk-6af3de4a8dbad",
+   "free_from": "2026-12-05",
    "free_nights": null,
    "open_ended": true,
    "min_nights": 30,
